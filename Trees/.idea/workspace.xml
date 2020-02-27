@@ -24,7 +24,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/balanced_trees.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
+            <state relative-caret-position="513">
               <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="707" />
     <option name="y" value="16" />
     <option name="width" value="1225" />
@@ -213,15 +213,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="870" y="29" width="1225" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="707" y="16" width="1225" height="1047" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20977254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39479393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/balanced_trees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
+        <state relative-caret-position="513">
           <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
