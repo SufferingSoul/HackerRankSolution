@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="903b62f4-de8f-4368-91fc-0e5c96a3dc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GreedyFlorist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase/GreedyFlorist.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreedyFlorist.py" beforeDir="false" afterPath="$PROJECT_DIR$/GreedyFlorist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/GreedyFlorist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/GreedyFlorist.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,14 +26,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GreedyFlorist.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCase/GreedyFlorist.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -64,13 +72,14 @@
         <option value="$PROJECT_DIR$/MinimumAbsoluteDifference.py" />
         <option value="$PROJECT_DIR$/LuckBalance.py" />
         <option value="$PROJECT_DIR$/testCase/LuckBalance.txt" />
+        <option value="$PROJECT_DIR$/testCase/GreedyFlorist.txt" />
         <option value="$PROJECT_DIR$/GreedyFlorist.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="682" />
-    <option name="y" value="101" />
+    <option name="x" value="861" />
+    <option name="y" value="99" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -116,7 +125,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LuckBalance">
+  <component name="RunManager" selected="Python.GreedyFlorist">
+    <configuration name="GreedyFlorist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GreedyAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GreedyFlorist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LuckBalance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GreedyAlgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +191,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GreedyFlorist" />
         <item itemvalue="Python.LuckBalance" />
         <item itemvalue="Python.MinimumAbsoluteDifference" />
       </list>
@@ -212,19 +243,26 @@
       <option name="project" value="LOCAL" />
       <updated>1582853011041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created GreedyFlorist Problem">
+      <created>1583212882117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583212882117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="682" y="101" width="974" height="1047" extended-state="0" />
+    <frame x="861" y="99" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35042736" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35042736" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,7 +282,8 @@
     <MESSAGE value="solved Minimum Absolute Difference" />
     <MESSAGE value="start LuckBalance" />
     <MESSAGE value="solved LuckBalance" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved LuckBalance" />
+    <MESSAGE value="Created GreedyFlorist Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created GreedyFlorist Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -291,11 +330,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GreedyFlorist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/testCase/GreedyFlorist.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreedyFlorist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
