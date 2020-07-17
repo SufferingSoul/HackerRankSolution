@@ -1,3 +1,18 @@
+class TreeNode:
+    def __init__(self, value, order,):
+        self.value = value
+        self.order = order
+        self.parent = None
+        self.children = []
+
+
+def build_tree(c, edges):
+    root = TreeNode(c[0], 1)
+    for s,t in edges:
+        pass
+
+
+
 def balanced_trees(c, edges):
     print(c)
     print(edges)
