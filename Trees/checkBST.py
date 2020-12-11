@@ -1,3 +1,4 @@
+-- coding: utf-8 --
 def checkBST(root):
     return check(root, -1, 10001)
 
